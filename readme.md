@@ -1,19 +1,19 @@
-#plus_one
+# plus_one
 What comes after x? plus_one knows!*
  
 ( * only up to 999)
-##Install
+## Install
 Download it, I guess?
 
-##Use
-###Singular
+## Use
+### Singular
 ```python
 plus_one(1) # returns 2
 plus_one('two') # returns 'three'
 plus_one('THREE') # returns 'FOUR'
 ```
 
-###For Loop
+### For Loop
 ```python
 number = 'zero'
 while number != 'five':
@@ -23,8 +23,8 @@ while number != 'five':
 # returns 'one two three four' 
 ```
 
-##Why?
+## Why?
 I was curious what came after tbh
 
-##Author
+## Author
 [Me](https://github.com/20058303)
