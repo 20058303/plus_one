@@ -5251,8 +5251,3 @@ def plus_one(number):
         array = [1000, 'one thousand', 'One thousand', 'ONE THOUSAND']
         return array[indexed_number]
 
-
-number = 'zero'
-while number != 'ninety-nine':
-    number = plus_one(number)
-    print(number)
